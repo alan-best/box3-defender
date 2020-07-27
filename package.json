@@ -1,0 +1,19 @@
+{
+  "name": "box3-defender",
+  "version": "1.0.0",
+  "description": "Box3防火墙",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shyfcka/box3-defender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shyfcka/box3-defender/issues"
+  },
+  "homepage": "https://github.com/shyfcka/box3-defender#readme"
+}
